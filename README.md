@@ -1,6 +1,6 @@
 # Clustering_Reduction_Dimensions
 Projet : Clustering et Réduction de Dimensions
-
+![alt text](tracé.png)
 ## Contexte
 Le clustering permet de segmenter des données en groupes
 homogènes, utile pour la segmentation des clients.
